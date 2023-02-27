@@ -1,6 +1,14 @@
-cd = abrir arquivo 
-ls = listar arquivos 
-nano = editar/criar arquivos 
-mkdir = criar arquivo?
+
 git commit -m " (texto) " = "foto" do arquivo
 git status
+
+token =cd = abrir arquivo
+ls = listar arquivos
+nano = editar/criar arquivos
+mkdir = criar arquivo?
+token = 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
+git push = mandar
+git pull = atualizar
+git push = mandar
+git pull = atualizar
+
