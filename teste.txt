@@ -12,3 +12,4 @@ git pull = atualizar
 git push = mandar
 git pull = atualizar
 
+git add . = adicionar td
