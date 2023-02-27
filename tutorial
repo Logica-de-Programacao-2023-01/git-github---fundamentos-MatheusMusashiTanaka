@@ -1,0 +1,7 @@
+adicionar arquivo de texto = nano <nome arquivo>
+salvar momento do arquivo  = git commit -m"<nome do commit>"
+adicionar tudo ou especifico = git add < . > ou git add <especifico>
+checar status = git status
+adicionar para web = git push
+adicionar para arquivo = git pull
+
