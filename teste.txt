@@ -2,3 +2,4 @@ cd = abrir arquivo
 ls = listar arquivos
 nano = editar/criar arquivos
 mkdir = criar arquivo?
+token
