@@ -1,4 +1,6 @@
-cd = abrir arquivo
-ls = listar arquivos
-nano = editar/criar arquivos
+cd = abrir arquivo 
+ls = listar arquivos 
+nano = editar/criar arquivos 
 mkdir = criar arquivo?
+git commit -m " (texto) " = "foto" do arquivo
+git status
