@@ -1,0 +1,16 @@
+adicionar arquivo de texto = nano <nome arquivo>
+salvar momento do arquivo  = git commit -m"<nome do commit>"
+adicionar tudo ou especifico = git add < . > ou git add <especifico>
+checar status = git status
+adicionar para web = git push
+adicionar para arquivo = git pull
+--------------------------------------------------------------------------------
+Aula 2:
+sequencia : instruçoes em sequencia
+seleção: diferentes tipos de resultado dependendo da condição
+repetição: repete processo ate um resultado for alcançao
+_____________
+algoritimo: sequencia de passos para resolver um problema, (simples, ordenado, possui fim), ler/escreve dados e toma decisoes baseado em dados.
+Etapas de um algoritimo : 1º entrada de dados -> 2º processamento -> 3º Saida de dados
+--------------------------------------------------------------------------------
+else - elif- if - 
